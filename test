@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Visahl Samson CV Site</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+				
+                <span class="d-block d-lg-none">Visahl Samson David Selvam  </span>
+		   
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg"/></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#certifications">Certifications</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Achievements</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#associations">Associations</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#volunteering">Volunteering</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#publications">Publications</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h2 class="mb-0">
+                       Visahl Samson
+                        <span class="text-primary">David Selvam 
+					 </h2>
+					 	<a href="https://tryhackme.com/p/Mr.Samson"> <script src="https://tryhackme.com/badge/104251" alt="TryHackMe"></script> </a> </span>
+						<div class="subheading mb-5">
+                        Singapore · (+65) 9040 2769  <a href="mailto:vsamson@outlook.ie">vsamson@outlook.ie</a>
+                        
+                    </div>
+                    <p class="lead mb-5", justify-content=center > Hi! Samson here! Thanks for taking time to visit my portfolio site. Right now I am a final year student doing my studies in Singapore. I am quite enthusiastic about technology and infosec, especially about how technology and securities have been involved in this period. </p>
+					<p class="lead mb-2"> I love learning new stuff every day and keep me up-to - date with how information security impacts today 's life. And now, I 'd like to make improvements and build new stuff that will be a benefit to people in the future.</p>
+					<div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/v-samson/"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://github.com/Samson-DVS"><i class="fab fa-github"></i></a>
+					</div>
+                </div>
+            </section>
+            <hr class="my-1" />
+<!-- Experience-->
+            <section class="resume-section" id="projects">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Projects</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-4">
+                            <h3 class="mb-0">Agency for Science, Technology and Research (A* Star), Singapore</h3>
+                            <div class="subheading mb-3">Undergraduate Final Year Project </div>
+                            <div class="subheading mb-2">ML powered Phishing Detection Web Application </div>
+                            <p> <span>&#8226; Working under the supervision of A*Star, and their researchers from the Institute of High-Performance Computing. </span></p>
+							<p> <span>&#8226; The project involved the usage of Machine learning (especially Natural Language Processing) to address one of the well-known cyber-attack vectors Phishing. Using this web application, people can check whether the URL is a Phishing or a legitimate URL.
+</span></p>
+                            <p> <span>&#8226; Applications used: Flask (python based web framework), Anaconda framework, Python 3.. </span></p>
+							</div>
+                        <div class="flex-shrink-0"><span class="text-primary">(May 2020 - Present)</span></div>
+                    </div>
+                    </div>
+                </div>
+            </section>
+            <hr class="3" />
+
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-4">
+                            <h3 class="mb-0">Network and System Security Administrator</h3>
+                            <div class="subheading mb-3">Altius Equipements</div>
+                            <p> <span>&#8226; Installing network security solutions </span></p>
+							<p> <span>&#8226; Perfroming Vulnerbility and penetration testing </span></p>
+							<p> <span>&#8226; Creating network policies and authorization roles and defending against unauthorized access, modifications, and destruction </span></p>
+							<p> <span>&#8226; Training staff to understand and use security protocols in place </span></p>	
+                            <p> <span>&#8226; Highlights: First person to implement an IDS solution to provide more effective security.			
+							</div>
+                        <div class="flex-shrink-0"><span class="text-primary">May 2017 - May 2019</span></div>
+                    </div>
+                    </div>
+                </div>
+            </section>
+            <hr class="3" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Edith Cowan University, Australia</h3>
+                            <div class="subheading mb-3">Bachelor of Science</div>
+							<div>Cyber Security</div>
+                            <div> <span>&#8226; Delivered at PSB Academy, Singapore </span> </div>
+							<p> <span>&#8226; GPA: 3.75 out of 4 </span></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">May 2019 - Pursuing</span></div>
+                    </div>
+					
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Cornerstone International college, Chennai, India</h3>
+                            <div class="subheading mb-3">Pearson BTEC Level 5 HND in computing and Systems Development</div>
+                            <div> <span>&#8226; Achieved Edexcel International Outstanding Achievement for extraordinary academic performance </span></div>
+							<p> <span>&#8226; Overall Grade: Distinction </span> </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2015 - May 2017</span></div>
+                    </div>
+					
+					<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Don Bosco Higher Secondary School, Pannur, India </h3>
+                            <div class="subheading mb-3">Higher Secondary Certificate</div>
+							<div> <span>&#8226; Computer Science with Maths, Chemistry, and Physics </span> </div>
+							<div><span>&#8226; Two years National Cadet Corps (NCC) Service </span> </div>
+                            <p><span>&#8226; Percentage: 75 </span> </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">May 2015</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Tools & Technologies</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-linux"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-dragon"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-user-lock"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-aws"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-python"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-server"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-chalkboard-teacher"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-terminal"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-chart-pie"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-blog"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-git"></i></li>
+						<li class="list-inline-item"><i class="fa fa-flag"></i></li>
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                           Web Application Penetration Testing
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Network Penetration Testing, and Network Hardening
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Threat Intelligence
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Agile Development
+                        </li>
+						<li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Machine Learning
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interests</h2>
+                    <p>Apart from being a security analyst, I enjoy most of my time doing research article publication, and exploring other technology areas such as Machine Learning, and Data Centre Operations.</p>
+                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows.</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="certifications">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Certifications</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            AWS Educate Cyber Security Specialist
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Certified Network Security Specialist awarded by International Cyber Security Institute (UK)
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                           
+                            Cisco NDG Linux Unhatched, Cisco NDG Linux Essentials
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            
+                            Fortinet NSE 1 & NSE 2 Network Security Associate
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            
+                           Cybrary Advanced Cyber Threat Intelligence
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            
+                           Cyber Security and the X-factors (Coursera)
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            
+                            CompTIA Pentest+ Training
+                        </li>
+                    </ul>
+                </div>
+            </section>
+			<hr class="m-0" />
+		<!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-0">Achievements</h2>
+					<h3 class="mb-2">Joondalup Innovation Challenge</h3>
+					
+<div><h4><span>&#129352; Runner-up </span></h4> </div>
+                    <p>The 3-day online challenge worked in a team of 5, facilitated by franked.io. We were able to provide a real business idea/concept over the Cyber-Security theme, solving the problem of the cyber student's skill gap by collaborating industry & employer with the educators in order to provide students with essential industry-ready skills, needed to work in the real-life workplace.
+						Ended up awarded as 2nd place out of 28 business solution concepts, after 2 pitching rounds.</p>
+                    </ul>
+
+                     <h3 class="mb-2"><i class="fas fa-calendar-week"></i> International CTF organiser</h3>
+					<li>Worked on organizing an international Capture The Flag (CTF) competition for prospective students from Myanmar and Vietnam with the PSB Academy Singapore Marketing Team.</li>
+                   
+
+                    <li> Responsibilities include creating CTF challenges, deploying the architecture of the cloud platform, monitoring the infrastructure, and providing technical assistance to the participants.Also, did live streaming commentary, and student chapter promotions with team members.<a href="http://bit.ly/intctf" target="_blank">Reference</a></li>
+                   
+
+                     </ul>
+                    
+                     					
+					<h3 class="mb-2"><i class="far fa-flag"></i> Cyber Risk Singapore-Japan CTF</h3>
+					<p>Capture the Flag event conducted by Cyber Risk Singapore-Japan on 10th July 2020. The challenge focuses on exploiting Web Application Security Vulnerbilities. The event lasted for 2 hours, and I ended up in 28th place out of 150 participants.(This is my first CTF competition)</p>
+                    </ul>
+    
+					
+					<h3 class="mb-2"><i class="far fa-flag"></i> RSA conference Asia Pacific Japan 2020 CTF</h3>
+					<p>CTF Conducted by ICT Village during RSA APAJ 2020. The challenges were from several domains that requires knowledge on PLC, Programming, Threat Analysis, etc... At the end I completed and ended up in 6th place.</p>
+                    </ul>
+            
+                   					   
+                </div>
+            </section>
+			<hr class="m-0" />
+		
+		
+		<!-- Associations-->
+            <section class="resume-section" id="associations">
+                <div class="resume-section-content">
+                    <h2 class="mb-2">Associations</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                            <h4 class="mb-2">Singapore Computer Society (SCS)</h4>
+                            <div class="subheading mb-3">Student Chapter Member</div>							
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">May 2019 - Current</span></div>
+                    </div>
+				
+				<div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                            <h4 class="mb-2">Association of Information Security Professionals (AiSP)</h4>
+                            <div class="subheading mb-3">Affiliate Member</div>							
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Aug 2019 - Current</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                            <h4 class="mb-2">Australian Information Security Association (AISA)</h4>
+                            <div class="subheading mb-3">Student Associate Member</div>							
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Aug 2019 - Current</span></div>
+                    </div>
+				 </div>
+            </section>
+            <hr class="m-1" />
+			
+			<!-- Associations-->
+            <section class="resume-section" id="volunteering">
+                <div class="resume-section-content">
+                    <h2 class="mb-2">Volunteering</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                            <h4 class="mb-2">Senior Vice President - Training and Development</h4>
+                            <div class="subheading mb-3">Singapore Computer Society (SCS) PSB Academy Student Chapter Member</div>							
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Sept 2020 - Current</span></div>
+                    </div>
+
+
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                            <h4 class="mb-2">Vice President - Cyber Security Focus Group</h4>
+                            <div class="subheading mb-3">Singapore Computer Society (SCS) PSB Student Chapter Member</div>							
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Oct 2019 - Sept 2020</span></div>
+                    </div>
+
+			
+				 </div>
+            </section>
+            <hr class="m-1" />	
+
+<!-- Publications-->
+            <section class="resume-section" id="publications">
+                <div class="resume-section-content">
+                    <h2 class="mb-2">Publications</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-2">
+                        <div class="flex-grow-1">
+                          <h4 class="mb-2"> <li> <a href="https://mysecuritymarketplace.com/books/cyber-risk-leaders-issue-2-2020/" target="_blank"> Human error intention or deliberate - Published in Cyber Risk Leaders Magazine - Issue 2, 2020 - MySecurity Media </a> </h4> </li>
+                            <h4 class="mb-2"> <li> <a href="https://arxiv.org/abs/2005.04163" target="_blank">HHuman error in IT security - Published in Arxiv </a></h4></li>
+                            
+                            </div>
+                       </div>
+				
+				 </div>
+            </section>
+            <hr class="m-1" />		
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
