@@ -1,8 +1,19 @@
+html { 
+  background: url(https://images.squarespace-cdn.com/content/v1/51be3e56e4b09edc5f81e74c/1551795556726-AYCIRFK3Z8SAZQ11RRF5/SciFi_LoaderBlue.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+}
 body {
-    background-image:url('https://github.com/Samson-DVS/vsamson/gif.gif');
-    background-size:cover;
-    height: 100vh;
-    padding:0;
-    margin:0;
+    height: 100%;
 }
 
+h1 {
+    font-family: 'Spirax', cursive;
+    font-size: 1.8em;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+    filter: alpha(opacity=20);
+    opacity: 0.2;
+}
